@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuetePOO</string>
+    <string-array name="model_array">
+        <item>Sélectionnez un type de véhicule...</item>
+        <item>Voiture</item>
+        <item>Moto</item>
+        <item>Bateau</item>
+
+
+    </string-array>
+
+</resources>
